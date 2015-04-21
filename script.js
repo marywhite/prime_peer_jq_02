@@ -19,7 +19,7 @@ $(document).ready(function(){
 	$("#genProp").click(slideDownRow);
 	$("#someTable").on("click", ".removeListing", function(){
 	$(this).parent().slideUp(500);
-	$(this).parent().remove();
+	$(this).remove();
 });
 	//$("#genProp").on("click")
 });

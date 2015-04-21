@@ -1,6 +1,8 @@
-table {margin: 2em auto;
-	width: 75%;
-	border-collapse: collapse;
-	border: 2px;
-	border-color: black;
+table {
+	margin: 2em auto;
+	width: 80%;
+}
+
+div {
+	border: 1px solid black;
 }
